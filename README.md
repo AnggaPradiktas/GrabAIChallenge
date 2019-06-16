@@ -25,10 +25,10 @@ Download fine-tuning imagenet pre-trained model for theano and tensorflow backen
 First download all the data needed from the link above and then split and assign them into train, test, and valid. You can see the preprocessing code in <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/img_annot_preprocessing.ipynb>img_annot_preprocessing.ipynb</a>
 
 ### Batch Normalization
-Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fine-tuning method to do car recognition. Learns a set of weights and biases used for scaling the input data. You can access the layer code <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/scale_layer.py>scale_layer.py</a>
+Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fine-tuning method to do car recognition. Learns a set of weights and biases used for scaling the input data. You can access the layer code here <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/scale_layer.py>scale_layer.py</a>
 
 ### Resnet 152 Model
-Then I trained the data using Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. The code <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a>.
+Then I trained the data using Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. I put the code in .py instead of Jupyter so that I can import it easily for my next code <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a>.
 
 
 ## Environment
