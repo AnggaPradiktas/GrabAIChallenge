@@ -15,6 +15,7 @@ Testing images can be downloaded <a href=http://imagenet.stanford.edu/internal/c
 
 A devkit, including class labels for training images and bounding boxes for all images, can be downloaded <a href=https://ai.stanford.edu/~jkrause/cars/car_devkit.tgz>here</a>.
 
+### ImageNet Pretrained Model for fine-tuning
 Download fine-tuning imagenet pre-trained model for theano and tensorflow backend <a href = https://gist.github.com/flyyufelix/7e2eafb149f72f4d38dd661882c554a6>here.</a>
 
 ## Environment
