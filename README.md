@@ -31,7 +31,7 @@ Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fi
 Then I created Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. I put the code in <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a> (.py) instead of Jupyter so that I can import it easily for my next code.
 
 ### Train the Data
-And the I trained the data using the model to get the best accuracy. After some loopings I decided to use model.46-0.99.hdf5 model. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
+And the I trained the data using the model to get the best accuracy. After some loopings I decided to use <a href=https://drive.google.com/file/d/10JIhvdwyitwrE1tURktU39b54_KxpUPq/view?usp=sharing>model.46-0.99.hdf5</a> model. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
 
 
 ## Environment
