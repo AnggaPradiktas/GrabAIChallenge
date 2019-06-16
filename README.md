@@ -18,6 +18,12 @@ A devkit, including class labels for training images and bounding boxes for all 
 ### ImageNet Pretrained Model for fine-tuning
 Download fine-tuning imagenet pre-trained model for theano and tensorflow backend <a href = https://gist.github.com/flyyufelix/7e2eafb149f72f4d38dd661882c554a6>here.</a>
 
+## Code
+
+### Preprocessing
+
+First download all the data needed from the link above and then split and assign them into train, test, and valid. The code is under https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/img_annot_preprocessing.ipynb
+
 ## Environment
 I simply run all my code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
 
