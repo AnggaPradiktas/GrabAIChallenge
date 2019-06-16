@@ -33,7 +33,7 @@ Then I created Resnet-152 pre-trained model. Model Schema and layer naming follo
 #### Train the Data
 And the I trained the data using the model to get the best accuracy. After some loopings I decided to use [model.46-0.99.hdf5](https://drive.google.com/file/d/10JIhvdwyitwrE1tURktU39b54_KxpUPq/view?usp=sharing) model that give model accuracy of 0.9968 on epoch 46. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
 
-val_loss | val_acc |
+val_acc | val_loss |
 |------|------|
 |<a href="val_acc"><img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_acc.svg" align="left" width="300"></a>|<a href="val_loss"><img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_loss.svg" align="right" width="300"></a>|
 
