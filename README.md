@@ -34,7 +34,7 @@ Then I created Resnet-152 pre-trained model. Model Schema and layer naming follo
 And the I trained the data using the model to get the best accuracy. After some loopings I decided to use [model.46-0.99.hdf5](https://drive.google.com/file/d/10JIhvdwyitwrE1tURktU39b54_KxpUPq/view?usp=sharing) model that give model accuracy of 0.9968 on epoch 46. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
 
 val_acc <img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_acc.svg" width="300"> 
-![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_loss.svg)
+val_loss <img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_loss.svg" width="300">
 
 #### Testing
 And after some training, finally I tested the data using the trained model for random 20 data in test dataset. Before that I also created a [util.py](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/utils.py) to make it easier for me importing the model inside any code. Here's the code [demo_test.ipynb](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/demo_test.ipynb) and save the output in the [results.json](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results.json). I also visualize the output below.
