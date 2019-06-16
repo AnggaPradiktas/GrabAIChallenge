@@ -21,3 +21,12 @@ I simply run all my code using Google Colab, here's the link to my drive and Col
 |Ford Mustang Convertible 2007', 'prob': '0.9883'|'Audi TT RS Coupe 2012', 'prob': '0.8998'|'Audi S5 Coupe 2012', 'prob': '0.9446'|'Aston Martin V8 Vantage Convertible 2012', 'prob': '0.9771'|
 |![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/4.jpg)  | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/5.jpg) | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/6.jpg)|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/7.jpg) |
 |'Audi RS 4 Convertible 2008', 'prob': '0.9997'|'BMW Z4 Convertible 2012', 'prob': '0.9999'|'Fisker Karma Sedan 2012', 'prob': '1.0'|'Dodge Challenger SRT8 2011', 'prob': '1.0'|
+|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/8.jpg)  | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/9.jpg) | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/10.jpg)|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/11.jpg) |
+|'Lamborghini Diablo Coupe 2001', 'prob': '0.9612'|'Nissan Leaf Hatchback 2012', 'prob': '1.0'|'Land Rover Range Rover SUV 2012', 'prob': '0.9999'|'Jeep Liberty SUV 2012', 'prob': '0.9961'|
+|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/12.jpg)  | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/13.jpg) | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/14.jpg)|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/15.jpg) |
+|'Buick Regal GS 2012', 'prob': '0.9996'|'GMC Savana Van 2012', 'prob': '0.4698'|'Bugatti Veyron 16.4 Coupe 2009', 'prob': '0.9959'|'BMW 3 Series Sedan 2012', 'prob': '0.9999'|
+|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/16.jpg)  | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/17.jpg) | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/18.jpg)|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/19.jpg) |
+|'Daewoo Nubira Wagon 2002', 'prob': '0.9821'|'Ford F-150 Regular Cab 2007', 'prob': '0.9995'|'smart fortwo Convertible 2012', 'prob': '0.9995'|'Chevrolet Impala Sedan 2007', 'prob': '0.9991'|
+
+
+
