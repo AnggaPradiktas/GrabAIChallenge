@@ -20,21 +20,22 @@ Download fine-tuning imagenet pre-trained model for theano and tensorflow backen
 
 ## Code
 
-### Preprocessing
+#### Preprocessing
 
 First download all the data needed from the link above and then split and assign them into train, test, and valid. You can see the preprocessing code in <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/img_annot_preprocessing.ipynb>img_annot_preprocessing.ipynb</a>
 
-### Batch Normalization
+#### Batch Normalization
 Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fine-tuning method to do car recognition. Learns a set of weights and biases used for scaling the input data. You can access the layer code here <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/scale_layer.py>scale_layer.py</a>
 
-### Resnet 152 Model
+#### Resnet 152 Model
 Then I created Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. I put the code in <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a> (.py) instead of Jupyter so that I can import it easily for my next code.
 
-### Train the Data
+#### Train the Data
 And the I trained the data using the model to get the best accuracy. After some loopings I decided to use [model.46-0.99.hdf5](https://drive.google.com/file/d/10JIhvdwyitwrE1tURktU39b54_KxpUPq/view?usp=sharing) model. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
 
-### Testing
+#### Testing
 And after some training, finally I tested the data using the trained model for random 20 data in test dataset. Before that I also created a [util.py](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/utils.py) to make it easier for me importing the model inside any code. Here's the code [demo_test.ipynb](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/demo_test.ipynb) and save the output in the json format. I also visualize the output below.
+
 
 ## Environment
 I run almost my entire code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
