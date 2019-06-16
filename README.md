@@ -13,7 +13,7 @@ We use the Cars Dataset, which contains 16,185 images of 196 classes of cars. Th
 1 | 2 | 3 | 4 |
 |---|---|---|---|
 |![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/0.jpg)  | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/1.jpg) | ![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/2.jpg)|![image](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/3.jpg) |
-|Ford Mustang Convertible 2007', 'prob': '0.9883'|Hyundai Genesis Sedan 2012, prob: 0.9995|Cadillac Escalade EXT Crew Cab 2007, prob: 1.0|Lamborghini Gallardo LP 570-4 Superleggera 2012, prob: 1.0|
+|Ford Mustang Convertible 2007', 'prob': '0.9883'|'Audi TT RS Coupe 2012', 'prob': '0.8998'|'Audi S5 Coupe 2012', 'prob': '0.9446'|'Aston Martin V8 Vantage Convertible 2012', 'prob': '0.9771'|
 |![image](https://github.com/foamliu/Car-Recognition/raw/master/images/4_out.png)  | ![image](https://github.com/foamliu/Car-Recognition/raw/master/images/5_out.png) | ![image](https://github.com/foamliu/Car-Recognition/raw/master/images/6_out.png)|![image](https://github.com/foamliu/Car-Recognition/raw/master/images/7_out.png) |
 |BMW 1 Series Coupe 2012, prob: 0.9948|Suzuki Aerio Sedan 2007, prob: 0.9982|Ford Mustang Convertible 2007, prob: 1.0|BMW 1 Series Convertible 2012, prob: 1.0|
 |![image](https://github.com/foamliu/Car-Recognition/raw/master/images/8_out.png)  | ![image](https://github.com/foamliu/Car-Recognition/raw/master/images/9_out.png) | ![image](https://github.com/foamliu/Car-Recognition/raw/master/images/10_out.png)|![image](https://github.com/foamliu/Car-Recognition/raw/master/images/11_out.png)|
