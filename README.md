@@ -28,11 +28,14 @@ First download all the data needed from the link above and then split and assign
 Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fine-tuning method to do car recognition. Learns a set of weights and biases used for scaling the input data. You can access the layer code here <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/scale_layer.py>scale_layer.py</a>
 
 ### Resnet 152 Model
-Then I trained the data using Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. I put the code in<a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a> (.py) instead of Jupyter so that I can import it easily for my next code.
+Then I created Resnet-152 pre-trained model. Model Schema and layer naming follow that of the original Caffe implementation https://github.com/KaimingHe/deep-residual-networks. I put the code in <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/training_keras.py>training_keras.py</a> (.py) instead of Jupyter so that I can import it easily for my next code.
+
+### Train the Data
+And the I trained the data using the model to get the best accuracy. After some loopings I decided to use model.46-0.99.hdf5 model. You can find the code here <a href=https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/train.ipynb>train.ipynb</a>.
 
 
 ## Environment
-I simply run all my code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
+I run almost my entire code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
 
 
 ## demo_test.ipynb results
