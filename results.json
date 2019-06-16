@@ -1,0 +1,82 @@
+[
+    {
+        "label": "Ford Mustang Convertible 2007",
+        "prob": "0.9883"
+    },
+    {
+        "label": "Audi TT RS Coupe 2012",
+        "prob": "0.8998"
+    },
+    {
+        "label": "Audi S5 Coupe 2012",
+        "prob": "0.9446"
+    },
+    {
+        "label": "Aston Martin V8 Vantage Convertible 2012",
+        "prob": "0.9771"
+    },
+    {
+        "label": "Audi RS 4 Convertible 2008",
+        "prob": "0.9997"
+    },
+    {
+        "label": "BMW Z4 Convertible 2012",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Fisker Karma Sedan 2012",
+        "prob": "1.0"
+    },
+    {
+        "label": "Dodge Challenger SRT8 2011",
+        "prob": "1.0"
+    },
+    {
+        "label": "Lamborghini Diablo Coupe 2001",
+        "prob": "0.9612"
+    },
+    {
+        "label": "Nissan Leaf Hatchback 2012",
+        "prob": "1.0"
+    },
+    {
+        "label": "Land Rover Range Rover SUV 2012",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Jeep Liberty SUV 2012",
+        "prob": "0.9961"
+    },
+    {
+        "label": "Buick Regal GS 2012",
+        "prob": "0.9996"
+    },
+    {
+        "label": "GMC Savana Van 2012",
+        "prob": "0.4698"
+    },
+    {
+        "label": "Bugatti Veyron 16.4 Coupe 2009",
+        "prob": "0.9959"
+    },
+    {
+        "label": "BMW 3 Series Sedan 2012",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Daewoo Nubira Wagon 2002",
+        "prob": "0.9821"
+    },
+    {
+        "label": "Ford F-150 Regular Cab 2007",
+        "prob": "0.9995"
+    },
+    {
+        "label": "smart fortwo Convertible 2012",
+        "prob": "0.9995"
+    },
+    {
+        "label": "Chevrolet Impala Sedan 2007",
+        "prob": "0.9991"
+    }
+]
