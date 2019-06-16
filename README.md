@@ -37,7 +37,7 @@ val_acc
 <a href="val_acc"><img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_acc.svg" align="left" width="300"></a>
 
 val_loss
-<a href="val_loss"><img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_loss.svg" align="left" width="300"></a>
+<a href="val_loss"><img src="https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results_img/val_loss.svg" align="right" width="300"></a>
 
 #### Testing
 And after some training, finally I tested the data using the trained model for random 20 data in test dataset. Before that I also created a [util.py](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/utils.py) to make it easier for me importing the model inside any code. Here's the code [demo_test.ipynb](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/demo_test.ipynb) and save the output in the [results.json](https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/results.json). I also visualize the output below.
