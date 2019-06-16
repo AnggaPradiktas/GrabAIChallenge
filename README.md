@@ -24,6 +24,9 @@ Download fine-tuning imagenet pre-trained model for theano and tensorflow backen
 
 First download all the data needed from the link above and then split and assign them into train, test, and valid. You can see the preprocessing code in <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/img_annot_preprocessing.ipynb>img_annot_preprocessing.ipynb</a>
 
+### Batch Normalization
+Then create a custom layer for BatchNormalization. I am using Resnet-152 as a fine-tuning method to do car recognition. Learns a set of weights and biases used for scaling the input data. You can access the layer code <a href = https://github.com/AnggaPradiktas/GrabAIChallenge/blob/master/scale_layer.py>scale_layer.py</a>
+
 ## Environment
 I simply run all my code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
 
