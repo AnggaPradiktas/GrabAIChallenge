@@ -43,7 +43,7 @@ And after some training, finally I tested the data using the trained model for r
 
 
 ## Environment
-I run almost my entire code using Google Colab, here's the link to my drive and Colab https://drive.google.com/file/d/1NodsfZ_wNRdSE0UkpSMYFUiyQs0NNpye/view?usp=sharing
+I run almost my entire code using Google Colab, here's the link to my drive and Colab https://drive.google.com/open?id=1rMQeVOWd7l_YxrXTy-eE6onfwcVU6v9F
 
 
 ## demo_test.ipynb results
