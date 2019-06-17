@@ -1,6 +1,6 @@
 import cv2 as cv
 
-from training_keras import resnet152_model
+from model_resnet152 import resnet152_model
 
 def load_model():
     model_weights_path = 'model/model.46-0.99.hdf5'
